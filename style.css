@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.heading:hover{
+    color: red;
+}
+.shop:hover{
+    color:red;
+}
+.middle-text{
+    font-weight: bolder;
+}
+.middle-text .p1{
+    font-size: 20px;
+    color: rgb(181, 181, 181);
+    padding-top: 120px;
+}
+.middle-text .p2{
+    font-size: 20px;
+    color: rgb(181, 181, 181);
+    padding-bottom:50px;
+}
+.icons{
+    padding-top: 12rem; 
+    display: flex;
+    justify-content: space-evenly;
+}
+.icons-1 img{
+    width: 30px;
+    height: 30px;
+    margin: 3rem;
+    
+    
+}
+#copy{
+    font-size: 14px;
+    color: white;
+    padding-bottom: 35px;
+}
+.navbar-nav .nav-link:hover {
+    color: red !important;
+}
